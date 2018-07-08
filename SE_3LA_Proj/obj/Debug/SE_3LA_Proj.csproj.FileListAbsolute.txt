@@ -12,3 +12,17 @@ F:\My C# Projects\SE_3LA_Proj\SE_3LA_Proj\bin\Debug\BL.dll
 F:\My C# Projects\SE_3LA_Proj\SE_3LA_Proj\bin\Debug\DL.dll
 F:\My C# Projects\SE_3LA_Proj\SE_3LA_Proj\bin\Debug\BL.pdb
 F:\My C# Projects\SE_3LA_Proj\SE_3LA_Proj\bin\Debug\DL.pdb
+C:\Git_3LA\SE_3LA_Proj\bin\Debug\SE_3LA_Proj.exe.config
+C:\Git_3LA\SE_3LA_Proj\bin\Debug\SE_3LA_Proj.exe
+C:\Git_3LA\SE_3LA_Proj\bin\Debug\SE_3LA_Proj.pdb
+C:\Git_3LA\SE_3LA_Proj\bin\Debug\BL.dll
+C:\Git_3LA\SE_3LA_Proj\bin\Debug\DL.dll
+C:\Git_3LA\SE_3LA_Proj\bin\Debug\BL.pdb
+C:\Git_3LA\SE_3LA_Proj\bin\Debug\DL.pdb
+C:\Git_3LA\SE_3LA_Proj\obj\Debug\SE_3LA_Proj.csprojResolveAssemblyReference.cache
+C:\Git_3LA\SE_3LA_Proj\obj\Debug\SE_3LA_Proj.Form1.resources
+C:\Git_3LA\SE_3LA_Proj\obj\Debug\SE_3LA_Proj.Properties.Resources.resources
+C:\Git_3LA\SE_3LA_Proj\obj\Debug\SE_3LA_Proj.csproj.GenerateResource.Cache
+C:\Git_3LA\SE_3LA_Proj\obj\Debug\SE_3LA_Proj.csproj.CoreCompileInputs.cache
+C:\Git_3LA\SE_3LA_Proj\obj\Debug\SE_3LA_Proj.exe
+C:\Git_3LA\SE_3LA_Proj\obj\Debug\SE_3LA_Proj.pdb

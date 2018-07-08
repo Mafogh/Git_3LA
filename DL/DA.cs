@@ -42,6 +42,8 @@ namespace DL
             dt = new DataTable();
             da.Fill(dt);
             return dt;
+
+            int x;
         }
 
         public void cmdtext(string q)
