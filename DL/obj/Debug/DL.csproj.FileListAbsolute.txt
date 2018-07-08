@@ -1,0 +1,6 @@
+F:\My C# Projects\SE_3LA_Proj\DL\bin\Debug\DL.dll
+F:\My C# Projects\SE_3LA_Proj\DL\bin\Debug\DL.pdb
+F:\My C# Projects\SE_3LA_Proj\DL\obj\Debug\DL.csprojResolveAssemblyReference.cache
+F:\My C# Projects\SE_3LA_Proj\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+F:\My C# Projects\SE_3LA_Proj\DL\obj\Debug\DL.dll
+F:\My C# Projects\SE_3LA_Proj\DL\obj\Debug\DL.pdb

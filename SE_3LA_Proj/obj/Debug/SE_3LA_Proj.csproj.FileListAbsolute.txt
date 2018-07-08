@@ -1,0 +1,14 @@
+F:\My C# Projects\SE_3LA_Proj\SE_3LA_Proj\bin\Debug\SE_3LA_Proj.exe.config
+F:\My C# Projects\SE_3LA_Proj\SE_3LA_Proj\bin\Debug\SE_3LA_Proj.exe
+F:\My C# Projects\SE_3LA_Proj\SE_3LA_Proj\bin\Debug\SE_3LA_Proj.pdb
+F:\My C# Projects\SE_3LA_Proj\SE_3LA_Proj\obj\Debug\SE_3LA_Proj.csprojResolveAssemblyReference.cache
+F:\My C# Projects\SE_3LA_Proj\SE_3LA_Proj\obj\Debug\SE_3LA_Proj.Form1.resources
+F:\My C# Projects\SE_3LA_Proj\SE_3LA_Proj\obj\Debug\SE_3LA_Proj.Properties.Resources.resources
+F:\My C# Projects\SE_3LA_Proj\SE_3LA_Proj\obj\Debug\SE_3LA_Proj.csproj.GenerateResource.Cache
+F:\My C# Projects\SE_3LA_Proj\SE_3LA_Proj\obj\Debug\SE_3LA_Proj.csproj.CoreCompileInputs.cache
+F:\My C# Projects\SE_3LA_Proj\SE_3LA_Proj\obj\Debug\SE_3LA_Proj.exe
+F:\My C# Projects\SE_3LA_Proj\SE_3LA_Proj\obj\Debug\SE_3LA_Proj.pdb
+F:\My C# Projects\SE_3LA_Proj\SE_3LA_Proj\bin\Debug\BL.dll
+F:\My C# Projects\SE_3LA_Proj\SE_3LA_Proj\bin\Debug\DL.dll
+F:\My C# Projects\SE_3LA_Proj\SE_3LA_Proj\bin\Debug\BL.pdb
+F:\My C# Projects\SE_3LA_Proj\SE_3LA_Proj\bin\Debug\DL.pdb
