@@ -48,11 +48,18 @@ namespace BL
 
         public void roomreserve()
         {
-            base.connect();
-            string query = "insert into Reservation (ReservationID,CustomerID,Date,RoomNum,DateFrom,DateTo) values (N'{0}',N'{1}',N'{2}',N'{3}',N'{4}',N'{5}')";
-            query = string.Format(query, ReservationID, CustomerID, Date, RoomNum, DateFrom, DateTo);
-            base.cmdtext(query);
-            base.disconnect();
+            try
+            {
+                base.connect();
+                string query = "insert into Reservation (ReservationID,CustomerID,Date,RoomNum,DateFrom,DateTo) values (N'{0}',N'{1}',N'{2}',N'{3}',N'{4}',N'{5}')";
+                query = string.Format(query, ReservationID, CustomerID, Date, RoomNum, DateFrom, DateTo);
+                base.cmdtext(query);
+                base.disconnect();
+            }
+            catch (Exception)
+            {
+                //
+            }
         }
 
         public void deleteall()

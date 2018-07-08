@@ -46,27 +46,25 @@ namespace SE_3LA_Proj
 
         private void btnroomreserve_Click(object sender, EventArgs e)
         {
-            try
-            {
-                BLR b = new BLR();
-                b.ReservationID = txtreserveid.Text;
-                b.CustomerID = txtcustomerid.Text;
-                b.Date = mtxtreservedate.Text;
-                b.RoomNum = txtroomnum.Text;
-                b.DateFrom = mtxtreservefrom.Text;
-                b.DateTo = mtxtreserveto.Text;
-                b.roomreserve();
-                txtreserveid.Text = "";
-                txtcustomerid.Text = "";
-                mtxtreservedate.Text = "";
-                txtroomnum.Text = "";
-                mtxtreservefrom.Text = "";
-                mtxtreserveto.Text = "";
-            }
-            catch(Exception)
-            {
-                MessageBox.Show("این شناسه رزرو در سیستم موجود است");
-            }
+            BLR b = new BLR();
+            b.ReservationID = txtreserveid.Text;
+            b.CustomerID = txtcustomerid.Text;
+            b.Date = mtxtreservedate.Text;
+            b.RoomNum = txtroomnum.Text;
+            b.DateFrom = mtxtreservefrom.Text;
+            b.DateTo = mtxtreserveto.Text;
+            b.roomreserve();
+            txtreserveid.Text = "";
+            txtcustomerid.Text = "";
+            mtxtreservedate.Text = "";
+            txtroomnum.Text = "";
+            mtxtreservefrom.Text = "";
+            mtxtreserveto.Text = "";
+        }
+
+        public void ex()
+        {
+            MessageBox.Show("***");
         }
 
         
